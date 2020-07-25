@@ -1,0 +1,16 @@
+oled_i2c.c:1101:6:SDA.part.0	0	static
+oled_i2c.c:1114:6:SCL.part.1	0	static
+oled_i2c.c:1101:6:SDA	0	static
+oled_i2c.c:1046:6:oledSendStop	8	static
+oled_i2c.c:1114:6:SCL	0	static
+oled_i2c.c:1056:6:oledWaitForAck	8	static
+oled_i2c.c:1068:6:oledSendByte	16	static
+oled_i2c.c:1030:6:oledSendStart	8	static
+oled_i2c.c:1087:6:oledSendCommand	8	static
+oled_i2c.c:684:6:OLED_Clear	8	static
+oled_i2c.c:195:6:OLED_Init	8	static
+oled_i2c.c:794:6:OLED_SetCursor.part.2	16	static
+oled_i2c.c:794:6:OLED_SetCursor	0	static
+oled_i2c.c:764:7:OLED_GoToNextLine	0	static
+oled_i2c.c:240:6:OLED_DisplayChar	16	static
+oled_i2c.c:834:6:OLED_DisplayLogo	16	static
