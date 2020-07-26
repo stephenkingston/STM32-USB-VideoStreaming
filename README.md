@@ -25,3 +25,7 @@ pythonw SKEmbedded Video Player.pyw
  https://youtu.be/npBdJ8YWIas
 
 ![](demo.gif)
+
+## Screenshot
+
+![](GUI_app_screenshot.png)
