@@ -20,6 +20,10 @@ file using Python.
 pythonw SKEmbedded Video Player.pyw
 ```
 
+## Firmware
+
+- The STM32 project files can be opened using [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+
  ## Demo 
 
  https://youtu.be/npBdJ8YWIas
